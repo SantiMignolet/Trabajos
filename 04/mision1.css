@@ -1,0 +1,47 @@
+body{
+    background-color: black ;
+ 
+}
+h1{
+    color: aqua;
+    text-align: center;
+    text-transform:uppercase;
+    font-weight: 800;
+    }
+p {
+    color: aliceblue;
+    font-size: 20px;
+
+}
+picture img{
+    display: flex;
+justify-content: center;
+}
+picture  img{
+
+    width:80%;
+    height:1000px
+}
+.reunion {
+    display: inline-block; 
+    padding: 10px;
+}
+.boton {
+    text-decoration: none; 
+    color: #fff;
+    border: 2px solid rgb(0, 161, 148);
+    padding: 5px; 
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+.boton:hover { 
+    background-color: burlywood;
+    color: #000;
+}
+
+    
+
+
+    
+
